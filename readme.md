@@ -10,7 +10,7 @@ Climate Normals is a comprehensive view of climate patterns over a 21-year perio
 5. Run the output images script to generate the ridge plots: `python output_images.py`
 
 ## Result
-![new york cliamte](https://github.com/Tomorrow-IO-API/climate-normals/blob/main/climate_output/New%20York,%20NY_temperatureAvg.png?raw=true)
+![new york cliamte](https://github.com/Tomorrow-IO-API/climate-normals/blob/master/climate_output/New%20York,%20NY_temperatureAvg.png?raw=true)
 
 This repository contains two scripts for processing climate data:
 1. data pull
